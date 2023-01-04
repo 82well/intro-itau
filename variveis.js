@@ -20,3 +20,17 @@ person = 'Valdivania'
 //  Variavel do tipo var
 var car = 'Gol'
 car = 2000
+
+// tipos
+
+//  boleanos
+let booleanValue = false
+
+//  Strings
+let stringValue = 'Marcelo'
+
+// Int Numérico
+let intValue = 1000
+
+// Float Numérico
+let floatValue = 12.2
