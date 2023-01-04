@@ -16,3 +16,17 @@ function discountCalculate(name, price, discount){
 const speak = (name) => {
   console.log(`Olá ${name}`)
 }
+
+const result = (name, note) => {
+  if (note < 5) {
+    console.log('Aluno ' + name + ' reprovado')
+  }
+
+  if (note >= 5 && note < 7) {
+    console.log('Aluno ' + name + ' aprovado, porém segue em recuperação')
+  }
+
+  if (note >= 7) {
+    console.log('Aluno ' + name + ' aprovado, parabéns')
+  }
+}
