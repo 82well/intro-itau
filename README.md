@@ -1,5 +1,4 @@
 # intro-itau
-Introdução Itau Bootcamp preparatorio para processo seletivo.
 
 <h2 align="center"> Introdução Itaú Bootcamp preparatorio para processo seletivo.</h2>
 
